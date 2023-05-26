@@ -1,7 +1,7 @@
 <h1 align="center">Welcome you to my github</h1>
 
-<h3 align="center">Hi 😘, I'm Anh Tú (Ki Lop) - nonstop when you acquire it (her 🤣).</h3>
-<h3 align="center">A passionate frontend developer, besides I can deep in Django Python, it's so power</h3>
+<h3 align="center">Code forever</h3>
+<h3 align="center">A passionate frontend developer, besides I can deep in Django Python, it's so efficient</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kilopfd&label=Profile%20views&color=0e75b6&style=flat" alt="kilopfd" /> </p>
 
